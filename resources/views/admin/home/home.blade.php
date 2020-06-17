@@ -18,10 +18,11 @@
                     <div class="Details">
                         <h2 style="color: red;text-align: center" class="font-weight-bold">Statement of the head of the Mess:</h2>
                         <p><span style="">Hi, I am Alamgir Alam. At First take my salam "assalamualaikum warahmatullahi wabarakatuh"</span></p>
-                        <p>We Are One Family. I am a leader in this mess. So I am leading this mess from 2018.
-                        <p>আমরা সবাই মেসের নিয়ম কানুন মেনে চলবো। বাজার করা, পানি ফোটানো, খাবারের বাটি করা। সব কিছু ঠিক মত করব। টয়লেট পরিষ্কাররে তারিখ আসলে অবশ্যই তা পরিস্কার করব।</p>
-                        <p>আমরা সবাই সবার সাথে ভালো সম্পর্ক রাখার চেষ্টা করব। সবার সাথে ভালোভাবে কথা বলব। অবশ্যই রুমমেটদের সাথে সুসম্পর্ক রাখবো। সম্ভব হলে রুমমেটদের সাথে খাবার খাওয়ার চেষ্টা করব। তাহলে একজন আরেক জনের সাথে ভালো সম্পর্ক থাকবে।</p>
-                        <p>যে কোন সসম্যায় আমার সাথে যোগাযোগ করবেন।</p>
+                        <p>We will all abide by the rules of the mess. Shopping, boiling water, making bowls of food. I'll do everything right. To date to clean the toilet will actually clean it.
+
+                            We will all try to have a good relationship with everyone. I will talk to everyone well. Of course I will have a good relationship with my roommates. If possible, I will try to eat with the roommates. Then one will have a good relationship with the other.
+
+                            Contact me at any time.</p>
                         <h1>Alamgir Alam</h1>
                         <h6>Leader Head of the mess</h6>
                     </div>

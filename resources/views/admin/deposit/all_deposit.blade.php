@@ -4,6 +4,7 @@
 @endsection
 @section('content')
     <div class="container">
+        <h3 style="text-align: center;color: red;margin:10px">Please Click Your Name, Because All Information There</h3>
         <div class="row">
             @php
                 $month = date('F');
