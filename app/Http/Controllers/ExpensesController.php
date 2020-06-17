@@ -42,7 +42,7 @@ class ExpensesController extends Controller
         $validatedData = $request->validate([
             'name_id' => 'required',
         ],[
-            'name_id.required' => 'Select Name First!',
+            'name_id.required' => 'Select Marketer is Name First!',
         ]);
         $date = $request->expenses_date;
         $expenses = DB::table('expenses')->where('expenses_date',$date)->first();

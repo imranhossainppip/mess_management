@@ -7,7 +7,6 @@
         <div class="well">
             <form action="{{url('/save_meal')}}" method="post">
                 @csrf
-                @csrf
                 @if ($errors->any())
                     <div class="alert alert-danger">
                         <ul>

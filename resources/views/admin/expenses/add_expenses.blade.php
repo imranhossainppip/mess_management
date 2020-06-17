@@ -21,7 +21,7 @@
                     $members = DB::table('members')->where('status',$status)->get();
                 @endphp
                 <div class="form-group">
-                    <label for="exampleInputEmail1">Name</label>
+                    <label for="exampleInputEmail1">Marketer's Name</label>
                     <select name="name_id" class="form-control" id="exampleInputPassword1">
                         <option disabled="" selected="">--Select Your Name--</option>
                         @foreach($members as $member)

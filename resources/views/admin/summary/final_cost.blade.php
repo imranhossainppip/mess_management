@@ -25,7 +25,10 @@
                         <h6>Bazar: {{$expenses}}</h6>
                         <h6>BoroBazar: {{$deposit}}</h6>
                         <h6>Amount: {{$total_amount}}</h6>
-                        <h4>Total Cost: {{$personal_meal}}</h4>
+                        <h6>Meal Cost: {{$personal_meal}}</h6>
+                        <h5>Amount - Meal: {{$add = $personal_meal - $total_amount}}</h5>
+                        <h4>Room Rent + Mixed Cost: {{sprintf('%0.2f',$per_other)}}</h4>
+                        <h4>Please Submit: {{sprintf('%0.0f',$per_other + $add)}}</h4>
                     </div>
                 </div>
             </div>

@@ -66,3 +66,9 @@ Route::get('/per_cost','SummaryController@per_cost');
 Route::get('/final_cost/{id}','SummaryController@final_cost');
 
 
+//Others Cost
+Route::get('/others_cost','SummaryController@others_cost')->name('others_cost');
+Route::post('/save_cost','SummaryController@save_cost');
+
+
+

@@ -28,7 +28,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
             <a class="dropdown-item" href="{{url('/expenses/create')}}">Add Expenses</a>
-            <a class="dropdown-item" href="{{url('/expenses/{expenses}')}}">Manage Expenses</a>
+            <a class="dropdown-item" href="{{url('/expenses/{expenses}')}}">Total Expenses</a>
         </div>
     </li>
     <li class="nav-item dropdown">
@@ -48,7 +48,9 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
             <a class="dropdown-item" href="{{url('show_summary')}}">Show Summary</a>
-            <a class="dropdown-item" href="{{url('per_cost')}}">Total Cost</a>
+            <a class="dropdown-item" href="{{route('others_cost')}}">Others Cost</a>
+{{--            <a class="dropdown-item" href="{{url('per_cost')}}">Total Cost</a>--}}
+
         </div>
     </li>
 </ul>
